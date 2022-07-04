@@ -74,34 +74,289 @@ export default function Home() {
 
         <div className="digital-box">
           <div className="digital-card">
-          <div className="digital-text-box">
-            <img src="./digi-1.png" alt="" />
-            <h3>We are Open Source</h3>
-            <p>Lorem ipsum dummy text in print and website industry are usually use in these section</p> <br />         
-        </div>
+            <div className="digital-text-box">
+              <img src="./digi-1.png" alt="" />
+              <h3>We are Open Source</h3>
+              <p>
+                Lorem ipsum dummy text in print and website industry are usually
+                use in these section
+              </p>{" "}
+              <br />
+            </div>
+          </div>
+
+          <div className="digital-card">
+            <div className="digital-text-box">
+              <img src="./digi-2.png" alt="" />
+              <h3>Problem Solvers</h3>
+              <p>
+                Lorem ipsum dummy text in print and website industry are usually
+                use in these section
+              </p>{" "}
+              <br />
+            </div>
+          </div>
+
+          <div className="digital-card">
+            <div className="digital-text-box">
+              <img src="./digi-3.png" alt="" />
+              <h3> Regular Updates & Bug fixes</h3>
+              <p>
+                Lorem ipsum dummy text in print and website industry are usually
+                use in these section
+              </p>{" "}
+              <br />
+            </div>
+          </div>
         </div>
 
-        <div className="digital-card">
-          <div className="digital-text-box">
-            <img src="./digi-2.png" alt="" />
-            <h3>Problem Solvers</h3>
-            <p>Lorem ipsum dummy text in print and website industry are usually use in these section</p> <br />         
-        </div>
-        </div>
-
-        <div className="digital-card">
-          <div className="digital-text-box">
-            <img src="./digi-3.png" alt="" />
-            <h3> Regular Updates & Bug fixes</h3>
-            <p>Lorem ipsum dummy text in print and website industry are usually use in these section</p> <br />         
-        </div>
+        <div className="digital-container">
+          <h1>Newly Added Items</h1>
+          <br />
+          <p>
+            Anything embarrassing hidden in the middle of text. All the Lorem
+            Ipsum generators on
+          </p>
+          <p> the Internet tend to repeat predefined necessary.</p>
         </div>
 
+        <div className="button-container-show">
+          <ul>
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">All Items</a>
+            </li>
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">WordPress</a>
+            </li>
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">Site Templates</a>
+            </li>
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">CMS Themes</a>
+            </li>
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">eCommerce</a>
+            </li>
 
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">PSD Templates</a>
+            </li>
 
-
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">Joomla</a>
+            </li>
+          </ul>
         </div>
-        
+
+        <div className="images-container">
+
+          <div className="img-direction">
+          <img src="th-1.png" alt="" />
+          </div>
+
+
+          <div className="img-direction">
+          <img src="th-2.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-3.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-4.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-5.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-6.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-7.png" alt="" />
+          </div>
+
+
+          <div className="img-direction">
+          <img src="th-8.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-9.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-10.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-11.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-12.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-13.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-14.png" alt="" />
+          </div>
+
+
+          <div className="img-direction">
+          <img src="th-15.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-16.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-17.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-18.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-19.png" alt="" />
+          </div>
+
+
+          <div className="img-direction">
+          <img src="th-20.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-21.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-22.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-23.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-24.png" alt="" />
+          </div>
+          
+          <div className="img-direction">
+          <img src="th-25.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-26.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-27.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-28.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-29.png" alt="" />
+          </div>
+          
+          <div className="img-direction">
+          <img src="th-30.png" alt="" />
+          </div>
+
+
+          <div className="img-direction">
+          <img src="th-31.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-32.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-33.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-34.png" alt="" />
+          </div>
+          
+          <div className="img-direction">
+          <img src="th-35.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-36.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-37.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-38.png" alt="" />
+          </div>
+
+          <div className="img-direction">
+          <img src="th-39.png" alt="" />
+          </div>
+          
+          <div className="img-direction">
+          <img src="th-30.png" alt="" />
+          </div>
+        </div>
+
+        <div className="digital-container">
+          <h1>All Items</h1>
+          <br />
+          <p>
+            Anything embarrassing hidden in the middle of text. All the Lorem
+            Ipsum generators on
+          </p>
+          <p> the Internet tend to repeat predefined necessary.</p>
+        </div>
+
+
+        <div className="button-container-show-btn">
+          <ul>
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">All Items</a>
+            </li>
+
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">Site Templates</a>
+            </li>
+
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">CMS Themes</a>
+            </li>
+            
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">eCommerce</a>
+            </li>
+
+            <li>
+              <a href="https://themebing.com/wp/tijarah/">Joomla</a>
+            </li>
+            
+            
+            
+            
+            
+
+          </ul>
+        </div>
+
       </div>
     </>
   );
